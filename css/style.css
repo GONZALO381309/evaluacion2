@@ -116,3 +116,11 @@ body{
     width: 150px;
     height: auto;
 }
+.informacion{
+    margin: 10px;
+}
+.col{
+    text-align: justify;
+    font-size: 25px;
+    color: aliceblue;
+}
